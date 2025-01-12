@@ -67,6 +67,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-youtube-player](modules/youtube-player)
 - [django-openai](backend/modules)
 - [django-ocr](backend/modules)
+- [faq]()
 
 # Getting started: Frontend
 
