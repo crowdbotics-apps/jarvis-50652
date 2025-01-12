@@ -17,6 +17,7 @@
     "@modules/faq": "file:./modules/faq",
     "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
     "@modules/qr-code": "file:./modules/qr-code/",
+    "@modules/social-feed": "file:./modules/social-feed",
     "@modules/splash": "file:./modules/splash/",
     "@modules/typeform-webhook": "file:./modules/typeform-webhook/",
     "@modules/user-profile": "file:./modules/user-profile/",
