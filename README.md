@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-qr-code](modules/qr-code)
 - [react-native-splash](modules/splash)
 - [react-native-zoom-free-calling](modules/zoom-free-calling)
+- [react-native-youtube-player](modules/youtube-player)
 
 # Getting started: Frontend
 
